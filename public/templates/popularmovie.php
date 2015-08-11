@@ -1,0 +1,1 @@
+<div class="popularmovie"><a href="/mymvc/public/movie/<?php echo $id;?>"><img src="<?php echo '/mymvc/public/images/movie' . strtolower($id) . '.png'; ?>"></img></a></div>
